@@ -32,3 +32,7 @@ For the animals, the client wants to keep track of:
 - List of all the zoos where they have resided
 
 Determine the database tables necessary to track this information. Label any relationships between tables.
+
+
+NOTES
+
